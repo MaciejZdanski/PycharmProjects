@@ -1,0 +1,78 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: Bahnschrift;
+}
+
+body {
+    background-color: #000;
+}
+.logo img {
+    width: 300px;
+}
+.logo {
+    text-align: center;
+}
+.head h1 {
+    text-align: center;
+}
+label {
+    color: #CD6427;
+    text-align: center;
+}
+label, input, button {
+    display: block;
+    margin: 20px auto;
+}
+button {
+    background-color: #347AB6;
+    padding: 10px 60px;
+}
+.register {
+    text-align: center;  
+}
+.register a {
+    text-decoration: none;
+    color: #A5A5A5;  
+}
+.logo2 img{
+    width: 100px;
+}
+.logo2 {
+    text-align: center;
+}
+
+#send_reg {
+    padding: 10px 45px;
+}
+input {
+    background: transparent;
+    color: #fff;
+    border: 0px;
+    border-bottom: 2px solid #707070;
+}
+.disp_inline label, .disp_inline input{
+    display: inline;
+}
+.disp_inline > div {
+    text-align: center;
+}
+.text_center {
+    text-align: center;
+}
+.margin {
+    margin: 50px;
+}
+.fixer button {
+    background: transparent;
+    border: 0px;
+    margin: 40px auto;
+}
+.fixer {
+    text-align: center;
+}
+
+.fixer button img {
+    width: 200px;
+}
